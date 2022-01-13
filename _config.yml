@@ -1,0 +1,31 @@
+title: Valinor Earth’ Memo
+description: 'VE Tagline'
+
+remote_theme: oinam/oinam-jekyll
+
+footer:
+  credit: false
+  custom: true
+
+footer_custom: 'Copyright @ 2022. <a href="https://valinor.earth">Valinor Earth, Inc.</a>'
+
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+exclude:
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - README.*
