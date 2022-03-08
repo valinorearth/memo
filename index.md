@@ -1,8 +1,13 @@
-<mark>Climate change is a $6 trillion dollar per year problem for the entire world.</mark>[^6tUSD]
+> ## Climate change is a $6 trillion dollar per year problem for the entire world.[^6tUSD]
 
 Climate Change[^climate-change] is amplifying human conflicts and causing widespread damage to people's physical and mental health. Animal and human diseases are cropping up in new areas, while more extreme wildfires and other disasters are causing increased respiratory distress, trauma, and the erosion of livelihoods and cultures.
 
----
+<figure class="content-large">
+  <img src="/assets/img/blue-ridge-fire.jpg" alt="Blue Ridge Fire" loading="lazy">
+  <figcaption>
+    Climate Change effects, such as the Blue Ridge Fire in October 2020 in Chino Hills, California, have become more common.
+  </figcaption>
+</figure>
 
 ## Carbon Net-Zero by 2050
 
@@ -31,7 +36,7 @@ Every time a company uses its factories, machines, vehicles, or travel – they 
 
 These companies then buy carbon offsets. They contribute funds to certified projects such as forests restoration, clean energy generation, and increasing energy efficiency. These projects, in turn, reduce CO₂ and other Greenhouse gas emissions.[^GreenhouseGas]
 
----
+{% include video source="youtube" id="lQyrnq4CEEw" %}
 
 ## But there is a big problem
 
@@ -41,11 +46,11 @@ For instance, one of the ways Shell uses their billions is by creating an intern
 
 Now, imagine having this same dashboard for every company – big and small – just for the price of a monthly subscription.
 
----
+<img class="content-large" src="/assets/img/dashboard-demo.jpg" alt="Carbon Offset Dashboard" loading="lazy">
 
 ## Valinor Earth's Software Suite
 
-Our software helps companies to monitor and analyze their carbon-offset credits. The companies can then take action on where to spend their money. 
+Our software helps companies to monitor and analyze their carbon-offset credits. The companies can then take action on where to spend their money.
 
 > At Valinor Earth, we leverage Machine Learning to build a software suite to help everyone fight climate change. We have a simple SaaS solution, and we allow even small companies to start their carbon-offset footprints with as little as $199 a month. We are going after a market that will surpass $100 billion by the end of 2030.
 

@@ -1,4 +1,4 @@
 # Valinor Earth - Memo
 
-Netlify (main): https://memo.valinor.earth
-Cloudflare Pages (backup): https://ve-memo.pages.dev
+- Primary: https://memo.valinor.earth
+- Backup: https://ve-memo.pages.dev
