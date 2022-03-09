@@ -46,7 +46,7 @@ For instance, one of the ways Shell uses their billions is by creating an intern
 
 Now, imagine having this same dashboard for every company – big and small – just for the price of a monthly subscription.
 
-<img class="content-large" src="/assets/img/dashboard-demo.jpg" alt="Carbon Offset Dashboard" loading="lazy">
+<img class="content-large" src="/assets/img/dashboard-demo.png" alt="Carbon Offset Dashboard" loading="lazy">
 
 ## Valinor Earth's Software Suite
 
