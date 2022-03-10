@@ -1,3 +1,5 @@
+<script defer data-domain="valinor.earth" src="https://plausible.io/js/plausible.js"></script>
+
 > ## Climate change is a $6 trillion dollar per year problem for the entire world.[^6tUSD]
 
 Climate Change[^climate-change] is amplifying human conflicts and causing widespread damage to people's physical and mental health. Animal and human diseases are cropping up in new areas, while more extreme wildfires and other disasters are causing increased respiratory distress, trauma, and the erosion of livelihoods and cultures.
